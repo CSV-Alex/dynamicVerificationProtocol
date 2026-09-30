@@ -1,8 +1,6 @@
-AGENTS.md
-
-./docs
-./data
-./assets
-./assets/figuras
-./src/__pycache__
-./src/evaluation/__pycache__
+*
+!*/
+!.gitignore
+!/src/
+!/src/**/*.py
+!/data
