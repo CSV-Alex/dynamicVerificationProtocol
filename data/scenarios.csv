@@ -1,0 +1,5 @@
+scenario,num_messages,latency_ms,success
+compatible,8,0.2931,True
+divergent,7,0.1809,False
+renegotiation,8,0.1724,True
+provider_not_found,2,0.0135,False

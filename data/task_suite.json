@@ -1,0 +1,2422 @@
+[
+  {
+    "task_id": "task-000",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-001",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-002",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-003",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-004",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-005",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-006",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-007",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-008",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-009",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-010",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-011",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-012",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-013",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-014",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-015",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-016",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-017",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-018",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-019",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-020",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-021",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-022",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-023",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-024",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-025",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-026",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-027",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-028",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-029",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": true,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "semantic"
+  },
+  {
+    "task_id": "task-030",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-031",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-032",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-033",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-034",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-035",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-036",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-037",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-038",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-039",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-040",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-041",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-042",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-043",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-044",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-045",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-046",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-047",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-048",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-049",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-050",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-051",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-052",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-053",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-054",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-055",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-056",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 4000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-057",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-058",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 1500
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-059",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 1000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": true,
+    "divergence_kind": "operational"
+  },
+  {
+    "task_id": "task-060",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-061",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-062",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-063",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-064",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-065",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-066",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-067",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-068",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-069",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-070",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-071",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-072",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-073",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-074",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-075",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-076",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-077",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-078",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-079",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-080",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-081",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-082",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-083",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-084",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-085",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-086",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-087",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-088",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-089",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-090",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-091",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-092",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-093",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-094",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-095",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-096",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-097",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-098",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-099",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-100",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-101",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-102",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-103",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-104",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-105",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-106",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-107",
+    "capability": "text_summarization",
+    "source_text": "The defendant filed the claim on 15/01/2025. The indemnity clause caps liability. Jurisdiction is defined in the agreement.",
+    "required_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "provider_id": "dates-only-en",
+    "latent_profile": {
+      "preserve_dates": true,
+      "preserve_glossary": false,
+      "max_tokens": 800,
+      "language": "en",
+      "max_latency_ms": 8000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-108",
+    "capability": "text_summarization",
+    "source_text": "The parties executed the contract on 2025-07-01. The termination clause and the liability limit were amended.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "provider_id": "lax-es",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": false,
+      "max_tokens": 200,
+      "language": "es",
+      "max_latency_ms": 2000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  },
+  {
+    "task_id": "task-109",
+    "capability": "text_summarization",
+    "source_text": "The plaintiff signed the agreement on 2025-03-15. The clause limits liability and jurisdiction. Termination requires written notice.",
+    "required_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "provider_id": "glossary-only-en",
+    "latent_profile": {
+      "preserve_dates": false,
+      "preserve_glossary": true,
+      "max_tokens": 300,
+      "language": "en",
+      "max_latency_ms": 3000
+    },
+    "designed_to_diverge": false,
+    "divergence_kind": "none"
+  }
+]
